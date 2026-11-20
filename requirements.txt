@@ -1,0 +1,8 @@
+# This project uses only the Python standard library, so there are
+# no third-party packages to install.
+#
+# If you add packages later, list one per line, for example:
+# requests==2.32.3
+#
+# Regenerate this file from the active environment with:
+# pip freeze > requirements.txt
